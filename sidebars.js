@@ -13,7 +13,7 @@
 
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
-  DocumentationSidebar: [
+  docs: [
     'getting_started',
     'privacy-policy',
     'terms-of-service',
