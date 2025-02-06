@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Getting Started with Rankmonk
+# Getting Started
 
 ## Introduction
 
@@ -16,7 +16,7 @@ After logging into Rankmonk, you will be prompted to enter key details about you
 
 ### 2. Selecting Landing Page Type & Keywords
 
-- Choose the type of landing pages you want to create (e.g., SEO-focused, PPC-specific). See our [complete guide to landing page types](/docs/landingpage-types) for detailed options.
+- Choose the type of landing pages you want to create (e.g., SEO-focused, PPC-specific). See our [complete guide to landing page types](/landingpage-types) for detailed options.
 - Select the target location for your pages.
 - Submit a list of relevant keywords for which you want Rankmonk to generate pages.
 
