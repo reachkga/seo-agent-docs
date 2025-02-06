@@ -15,6 +15,7 @@
 const sidebars = {
   docs: [
     'getting_started',
+    'landingpage-types',
     'privacy-policy',
     'terms-of-service',
     'cancellation-refund-policy'
