@@ -101,7 +101,7 @@ Changes will be:
 
 For privacy-related inquiries:
 - Email: support@rankmonk.io
-- Website: https://rankmonk.com
+- Website: https://rankmonk.io
 - Response Time: Within 24-48 business hours
 
 ## 10. International Data Transfers
