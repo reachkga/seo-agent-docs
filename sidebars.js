@@ -18,7 +18,8 @@ const sidebars = {
     'landingpage-types',
     'privacy-policy',
     'terms-of-service',
-    'cancellation-refund-policy'
+    'cancellation-refund-policy',
+    'support'
   ],
 };
 
