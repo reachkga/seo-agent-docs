@@ -81,7 +81,7 @@ const config = {
               },
               {
                 label: 'CMS Integrations',
-                to: '/cms-integrations/framer',
+                to: '/framer-integration',
               },
             ],
           },
