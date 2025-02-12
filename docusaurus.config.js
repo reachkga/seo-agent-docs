@@ -38,6 +38,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
+          editUrl: 'https://github.com/reachkga/seo-agent-docs/tree/main/',
         },
         blog: false,
         theme: {
@@ -66,6 +67,25 @@ const config = {
             label: 'Documentation',
           },
           {
+            type: 'dropdown',
+            label: 'Quick Links',
+            position: 'left',
+            items: [
+              {
+                label: 'Landing Page Types',
+                to: '/landingpage-types',
+              },
+              {
+                label: 'Keyword Research',
+                to: '/keyword-research/understanding-intent',
+              },
+              {
+                label: 'CMS Integrations',
+                to: '/cms-integrations/framer',
+              },
+            ],
+          },
+          {
             href: 'https://github.com/reachkga/seo-agent-docs',
             label: 'GitHub',
             position: 'right',
@@ -76,11 +96,19 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Documentation',
             items: [
               {
                 label: 'Getting Started',
                 to: '/getting_started',
+              },
+              {
+                label: 'Landing Page Types',
+                to: '/landingpage-types',
+              },
+              {
+                label: 'Keyword Research',
+                to: '/keyword-research/understanding-intent',
               },
             ],
           },
@@ -93,7 +121,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/rankmonk',
               },
             ],
           },

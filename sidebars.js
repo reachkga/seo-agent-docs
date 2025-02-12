@@ -16,6 +16,32 @@ const sidebars = {
   docs: [
     'getting_started',
     'landingpage-types',
+    {
+      type: 'category',
+      label: 'Keyword Research',
+      items: [
+        'keyword-research/understanding-intent',
+        'keyword-research/ahrefs-guide',
+        'keyword-research/semrush-guide'
+      ],
+    },
+    {
+      type: 'category',
+      label: 'CMS Integrations',
+      items: [
+        'framer-integration',
+        {
+          type: 'category',
+          label: 'WordPress CMS',
+          items: [
+            'cms-integrations/wordpress/wp-sheet-editor',
+            'cms-integrations/wordpress/sheets-to-wp-posts',
+            'cms-integrations/wordpress/combined-tools'
+          ],
+        },
+        'cms-integrations/webflow',
+      ],
+    },
     'privacy-policy',
     'terms-of-service',
     'cancellation-refund-policy',
