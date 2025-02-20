@@ -43,6 +43,17 @@ We do not sell or rent your personal information. However, we may share informat
 - With analytics and service providers
 - To comply with legal obligations
 - With business partners under strict confidentiality agreements
+- With Google Sheets API for automated report generation
+
+### Google Sheets API Usage
+We use Google Sheets API with the following permissions:
+- https://www.googleapis.com/auth/spreadsheets scope to:
+  - Create new spreadsheets for SEO analysis reports
+  - Write data to these spreadsheets automatically
+  - Generate formatted reports without manual intervention
+- We only create and write to new spreadsheets
+- We do not read, modify, or access any existing user files
+- This access is essential for our automated report generation service
 
 ## 4. Security Practices
 
