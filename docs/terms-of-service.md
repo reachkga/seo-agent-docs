@@ -9,22 +9,26 @@ Welcome to Rankmonk. By accessing or using our website and services, you agree t
 
 ## 1. Services Provided
 
-Rankmonk specializes in programmatic SEO, content creation, and website optimization services. Our services include:
-- Keyword research
-- On-page optimization
-- Content creation
-- Performance reporting
-- Landing page generation
+Rankmonk specializes in AI-powered content generation and SEO optimization. Our services include:
+- Keyword-based content analysis
+- Competitor content analysis
+- AI-powered landing page generation
+- Content structure optimization
+- Automated content delivery via Google Sheets
+- Multi-keyword processing
+- SEO performance analysis
 
 Details of our services will be outlined in individual service agreements.
 
 ## 2. Client Responsibilities
 
 Clients are expected to:
-- Provide accurate information
-- Provide access to necessary resources
-- Maintain timely communication
-- Use services in compliance with applicable laws
+- Provide accurate company and business information
+- Supply relevant keywords and target locations
+- Ensure proper usage rights for provided content
+- Use generated content in compliance with applicable laws
+- Maintain appropriate security for their Google Sheets access
+- Review and verify generated content before use
 
 ## 3. Payment Terms
 
@@ -74,6 +78,50 @@ We reserve the right to modify these terms at any time:
 - Changes will be effective immediately upon posting
 - Continued use of services constitutes acceptance of new terms
 - Users will be notified of significant changes
+
+## 10. Content Usage and Rights
+
+- Generated content is provided for client's exclusive use
+- Clients are responsible for reviewing and editing generated content
+- We do not guarantee uniqueness of generated content
+- Clients should verify compliance with their industry regulations
+- We retain rights to the content generation technology
+- Content should be reviewed for accuracy before publication
+
+## 11. AI and Automation Disclosure
+
+Our services utilize:
+- Automated content analysis
+- AI-powered content generation
+- Automated report generation
+- Machine learning optimization
+- Automated content delivery systems
+
+Results may vary based on:
+- Quality of provided information
+- Keyword competitiveness
+- Market conditions
+- Search engine algorithm changes
+- Content relevance factors
+
+## 12. Data Processing and Storage
+
+We process and store:
+- Company information
+- Keywords and search terms
+- Generated content
+- Analysis results
+- Performance metrics
+- Usage patterns
+
+## 13. Service Limitations
+
+- Content generation is automated and AI-powered
+- Results depend on provided information quality
+- We don't guarantee search engine rankings
+- Generated content may require human review
+- Processing times vary with keyword volume
+- Service availability may fluctuate
 
 ## Contact Information
 

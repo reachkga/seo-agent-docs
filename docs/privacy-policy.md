@@ -9,6 +9,22 @@ Rankmonk is committed to protecting your privacy and safeguarding your personal 
 
 ## 1. Information We Collect
 
+### Business Information
+- Company name and description
+- Website URL
+- Target locations
+- Landing page preferences
+- Keywords and search terms
+- SEO strategy preferences
+
+### Content Analysis Data
+- Search engine results data
+- Competitor website content
+- Content structure analysis
+- Performance metrics
+- AI-generated content
+- Keyword optimization data
+
 ### Personal Information
 - Name and contact details
 - Email address
@@ -28,13 +44,33 @@ Rankmonk is committed to protecting your privacy and safeguarding your personal 
 ## 2. How We Use Your Information
 
 We use your information to:
-- Provide and improve our SEO services
-- Communicate about your account and services
-- Process payments securely
-- Analyze website performance
-- Optimize service delivery
-- Send important updates and notifications
-- Comply with legal obligations
+- Generate AI-powered landing page content
+- Analyze competitor websites and search results
+- Create SEO optimization strategies
+- Generate automated reports via Google Sheets
+- Analyze content performance patterns
+- Optimize content generation
+- Improve our AI content models
+- Provide customized landing page recommendations
+
+### Automated Processing
+Our service uses automated processing and AI to:
+- Analyze top-ranking content
+- Generate landing page content
+- Create content structure recommendations
+- Optimize for target keywords
+- Format and structure reports
+
+### Google Sheets API Usage
+We use Google Sheets API with the following permissions:
+- https://www.googleapis.com/auth/spreadsheets scope to:
+  - Create new spreadsheets for content delivery
+  - Write generated landing page content automatically
+  - Format and structure content sections
+  - Deliver multi-keyword reports efficiently
+- We only create and write to new spreadsheets
+- We do not read, modify, or access any existing user files
+- This automation is essential for our content delivery service
 
 ## 3. Information Sharing
 
@@ -44,16 +80,6 @@ We do not sell or rent your personal information. However, we may share informat
 - To comply with legal obligations
 - With business partners under strict confidentiality agreements
 - With Google Sheets API for automated report generation
-
-### Google Sheets API Usage
-We use Google Sheets API with the following permissions:
-- https://www.googleapis.com/auth/spreadsheets scope to:
-  - Create new spreadsheets for SEO analysis reports
-  - Write data to these spreadsheets automatically
-  - Generate formatted reports without manual intervention
-- We only create and write to new spreadsheets
-- We do not read, modify, or access any existing user files
-- This access is essential for our automated report generation service
 
 ## 4. Security Practices
 
